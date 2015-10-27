@@ -6,7 +6,7 @@ public class StringImmutable {
 		   //Creates object on String Literal Pool
 	        String one = "someString";
 	        
-	        //Creates a new Object
+	        //Creates another new Object
 	        String two = new String("someString");
 	        
 	        //Two strings are equal if they are having same character sequence
